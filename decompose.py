@@ -1,5 +1,3 @@
-# 这部分代码是工作的创新点
-# 先用现有的训练好的预测模型尝试
 import cv2
 import torch
 import argparse
