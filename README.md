@@ -46,3 +46,10 @@ This repository of Pytorch implementation of paper "Sparse Anomaly Detection in 
 `GenerateVideo_DiffPos.py`:	Generate anomaly feature with fixed background (not used).
 
 `GenerateVideo_L2R.py`: Generate the anomaly with moving background from left to right. Tools like image2frame (a single image transform into an image sequence, moving from left to right), save_video, video2frame (save the image sequences into testing path) are also in this file.
+
+## Evaluation
+```
+# Validate with a pretrained model.
+
+python decompose.py --dataset=wood --trained_model=avenue_15000.pth --scenario=4 --show_anomaly=False
+```
