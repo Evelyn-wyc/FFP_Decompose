@@ -9,7 +9,7 @@ This repository of Pytorch implementation of paper "Sparse Anomaly Detection in 
 ## File Description
 
 ### Method (Stage 1): Prediction
-`config.py`, 'Dataset.py'
+`config.py`, `Dataset.py`
 
 `unet.py`: The U-Net architecture.
 
@@ -37,7 +37,7 @@ This repository of Pytorch implementation of paper "Sparse Anomaly Detection in 
 
 ### Tools
 
-`bmp2jpg.py`, 'RGB2Gray.py'
+`bmp2jpg.py`, `RGB2Gray.py`
 
 `frame2mat.py`: This file makes all the frames together into a mat, which is a datatype in Matlab. Use the mat transform by frame2mat.py, we can compare with STSSD by the new image sequences.
 
