@@ -6,6 +6,11 @@ This repository of Pytorch implementation of paper "Sparse Anomaly Detection in 
 
 ![framework](https://github.com/Evelyn-wyc/FFP_Decompose/assets/49446524/84908a02-cd48-4ead-9b84-916e55ce5e5e)
 
+## Data & Requirments
+Data can be downloaded in [Google Drive](https://drive.google.com/file/d/1TDnWhqEdHu9N7oOgr9EK7IgGPsOqAQFo/view?usp=sharing) or [Baidu Disk](https://pan.baidu.com/s/1B2fLc3-iq2uCDQ9UBK15Yg?pwd=e344).
+
+Require PyTorch, opencv and other common packages.
+
 ## File Description
 
 ### Method (Stage 1): Prediction
