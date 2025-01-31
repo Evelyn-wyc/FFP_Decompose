@@ -4,7 +4,7 @@ This repository of Pytorch implementation of paper ["IPAD: Iterative Prediction 
 
 ## Network Pipeline
 
-[IPAD](https://github.com/user-attachments/assets/80bf6f4b-0201-4441-983b-a62f6a7f1ac8)
+![IPAD](https://github.com/user-attachments/assets/7517383e-a1ce-4ae5-a494-9e240e946dc8)
 
 ## Data & Requirments
 Data can be downloaded in [Google Drive](https://drive.google.com/file/d/1TDnWhqEdHu9N7oOgr9EK7IgGPsOqAQFo/view?usp=sharing) or [Baidu Disk](https://pan.baidu.com/s/1B2fLc3-iq2uCDQ9UBK15Yg?pwd=e344).
