@@ -1,6 +1,6 @@
-# FFPD: A two-stage Video Anomaly Detection method
+# IPAD: Iterative Prediction and Decomposition for Sparse Anomaly Detection in Video With Non-Low-Rank Background
 
-This repository of Pytorch implementation of paper "Sparse Anomaly Detection in Video Data with Non-Low-Rank Background via Future Frame Prediction and Decomposition". Parts of the code are inspired by [this link](https://github.com/feiyuhuahuo/Anomaly_Prediction).
+This repository of Pytorch implementation of paper ["IPAD: Iterative Prediction and Decomposition for Sparse Anomaly Detection in Video With Non-Low-Rank Background"](https://onlinelibrary.wiley.com/doi/abs/10.1002/qre.3723). Parts of the code are inspired by [this link](https://github.com/feiyuhuahuo/Anomaly_Prediction).
 
 ## Network Pipeline
 
